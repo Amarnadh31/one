@@ -5,9 +5,8 @@
 	<h2 style="color: yellow; font-size: 45px;" align="center">TTOMCAT SERVER DEPLOYMENT MANUAL</h2>
 	<h2 style="color: black; font-size: 55px;" align="center">TOMCAT Automated </h2>
 	<h2 style="color: black; font-size: 55px;" align="center">Welcome to everyone </h2>
-	<h2 style="color: black; font-size: 55px;" align="center">Dev server automated </h2>
 	<h2 style="color: black; font-size: 55px;" align="center">Testing server also automated </h2>
-	
+	<h2 style="color: black; font-size: 55px;" align="center">Prod server configured </h2>
 	
 	
 </body>
